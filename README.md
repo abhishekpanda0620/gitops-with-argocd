@@ -109,8 +109,3 @@ kubectl get secret -n argocd argocd-initial-admin-secret -o jsonpath="{.data.pas
 
 ---
 
-## 🌟 Why This Project Stands Out
-
-✅ GitOps is a modern deployment strategy — valuable skill.  
-✅ Shows expertise in Kubernetes, CI/CD, and Helm.  
-✅ Demonstrates real-world deployment strategies and automation.
